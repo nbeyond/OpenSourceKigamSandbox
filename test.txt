@@ -1,1 +1,3 @@
-있는걸 고쳐보지.
+The korean characters are gone.
+
+Added line.
