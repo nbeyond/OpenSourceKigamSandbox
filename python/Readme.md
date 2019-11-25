@@ -28,6 +28,4 @@
 
 ## Day 1
 
-
-
-
+![Here's an example of the figure.](https://miro.medium.com/proxy/1*YgtCXuRGmPfPg2PogXVCfQ.png)
