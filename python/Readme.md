@@ -27,5 +27,10 @@
   
 
 ## Day 1
+$$y=log_a x$$
+
+$$a^2+b^2=c^2$$
+
+
 
 ![Here's an example of the figure.](https://miro.medium.com/proxy/1*YgtCXuRGmPfPg2PogXVCfQ.png)
