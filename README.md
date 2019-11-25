@@ -1,2 +1,2 @@
 # OpenSourceKigamSandbox
-A repository used for learning git
+A repository used for learning git and python
