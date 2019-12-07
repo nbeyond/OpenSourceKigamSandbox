@@ -31,6 +31,7 @@ $$y=log_a x^{ab}$$
 
 $$a^2+b^2=c^2$$
 
-
+Or the link for Jupyter
+http://192.168.0.80:8888/?token=50aad64ab590e6814f35c1f9bbd9d03d90439b026a0f8cfc
 
 ![Here's an example of the figure.](https://miro.medium.com/proxy/1*YgtCXuRGmPfPg2PogXVCfQ.png)
