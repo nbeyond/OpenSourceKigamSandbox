@@ -28,6 +28,9 @@
 
 ## Day 1
 
+# SID: mireene1
+# Password: mireene1201!
+
 ### Test Head
 
 $$y=log_a x^{abcd}$$
