@@ -27,6 +27,12 @@
   
 
 ## Day 1
+
+### Test Head
+
+$$y=log_a x^{abcd}$$
+
+
 $$y=log_a x^{ab}$$
 
 $$a^2+b^2=c^2$$
@@ -35,3 +41,5 @@ Or the link for Jupyter
 http://192.168.0.27:8888/?token=16c8a111d181054cad310b55a518c55523884ce3f0b12469
 
 ![Here's an example of the figure.](https://miro.medium.com/proxy/1*YgtCXuRGmPfPg2PogXVCfQ.png)
+
+$$y=log_a x^{abcd}$$
