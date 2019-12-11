@@ -39,3 +39,5 @@ http://192.168.0.27:8888/?token=16c8a111d181054cad310b55a518c55523884ce3f0b12469
 $$y=log_a x^{abcd}$$
 
 ## Day #2
+Time series:
+https://medium.com/datadriveninvestor/how-to-build-exponential-smoothing-models-using-python-simple-exponential-smoothing-holt-and-da371189e1a1
