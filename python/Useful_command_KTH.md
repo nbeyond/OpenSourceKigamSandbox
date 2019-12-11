@@ -14,7 +14,9 @@ $ git checkout -- file name : when merge conflict error occurs while gpull, firs
 $ git pull origin branch_name (=gpull) : pull branch
 $ git push origin branch_name (=gpush) : push my directory files to branch
 $ git ls-remote (=gls) : git branch check
-$ git checkout branch_name : change branch
+$ git checkout branch_name (=gc branch_name) : change branch
+$ git checkout -- ours file_name (=gc -- ours file_name) : when merge conflict occurs, I'll keep my file unchanged.
+$ git checkout -- theirs file_name (= gc -- theirs file_name) : when merge conflict occurs, I'll change my file to the files in repository.
 ``` 
 ----------------------------------------------------- 
 ## GIT use in GIThub
