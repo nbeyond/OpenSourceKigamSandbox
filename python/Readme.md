@@ -42,3 +42,6 @@ $$y=log_a x^{abcd}$$
 
 ## Day #3
 http://10.200.5.103:8888/?token=2f4514369fb9e8ecaed4a9c3b50ba9ac9f8939536cdc2d68
+
+Linear regression:
+https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155
