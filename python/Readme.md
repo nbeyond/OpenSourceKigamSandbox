@@ -48,3 +48,6 @@ https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b
 
 Three types of Machine Learning
 https://towardsdatascience.com/beginners-guide-to-the-three-types-of-machine-learning-3141730ef45d
+
+Geo 
+https://blog.goodaudience.com/geo-libraries-in-python-plotting-current-fires-bffef9fe3fb7
