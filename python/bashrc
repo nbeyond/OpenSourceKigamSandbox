@@ -1,0 +1,22 @@
+# Some git commands
+alias g='git'
+alias gc='git checkout'
+alias gcb='git checkout -b'
+alias gs='git status'
+alias gt='git tag'
+alias gsvn='git svn'
+alias gg='git gui'
+alias ga='gitk --all'
+alias gb='git branch'
+alias gm='git meld'
+alias gdi='git difftool'
+alias gd='git branch -D'
+alias gls='git ls-remote'
+
+get_git_branch() {
+  echo `git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/\1/'`
+}
+alias gpull='git pull origin `get_git_branch`'
+alias gpush='git push origin `get_git_branch`'
+
+alias ana3='export PATH=/c/Users/burge/Anaconda3:$PATH'
