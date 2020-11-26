@@ -19,6 +19,7 @@
   - Holt's Winters Seasonal
 * Customized python coding
 https://blog.goodaudience.com/geo-libraries-in-python-plotting-current-fires-bffef9fe3fb7
+https://stackoverflow.com/questions/34979424/importing-mpl-toolkits-basemap-on-windows
 
 ## 11.27(금) 오픈소스와 연계하여 python을 이용한 DIYs
 * Linear Regression 외 
