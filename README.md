@@ -17,19 +17,28 @@
   - Holt's Method
   - Seasonally Adjusted Data
   - Holt's Winters Seasonal
-* Customized python coding
-https://blog.goodaudience.com/geo-libraries-in-python-plotting-current-fires-bffef9fe3fb7
-https://stackoverflow.com/questions/34979424/importing-mpl-toolkits-basemap-on-windows
-
-https://pinkwink.kr/1199
-
-*pip install -U matplotlib==3.2 
-
-https://stackoverflow.com/questions/40374441/python-basemap-module-impossible-to-import
+* [Customized python coding (Basemap)](https://blog.goodaudience.com/geo-libraries-in-python-plotting-current-fires-bffef9fe3fb7)
+   - Basemap installation tips for those who have python 3.8.
+   - https://pinkwink.kr/1199
+   - With python 3.6, you need to install matplotlib 3.2 version for the installation of basemap. (KSK)
+     ```
+        pip install -U matplotlib==3.2 
+        ```
+   - To test if basemap is properly installed, use the piece of the code in [the page](https://stackoverflow.com/questions/40374441/python-basemap-module-impossible-to-import).
+        ```
+        from mpl_toolkits.basemap import Basemap
+        import matplotlib.pyplot as plt
+        # setup Lambert Conformal basemap.
+        # set resolution=None to skip processing of boundary datasets.
+        m = Basemap(width=12000000,height=9000000,projection='lcc',
+            resolution=None,lat_1=45.,lat_2=55,lat_0=50,lon_0=-107.)
+        m.bluemarble()
+        plt.show()
+        ```
 
 ## 11.27(금) 오픈소스와 연계하여 python을 이용한 DIYs
-* Linear Regression 외 
-* 세가지 형태의 Machine Learning
-* 특화된 모듈 설치 (다양한 OS에서의 설치)
+* [Linear Regression 외](https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155) 
+* [세가지 형태의 Machine Learning](https://towardsdatascience.com/beginners-guide-to-the-three-types-of-machine-learning-3141730ef45d)
+* [특화된 모듈 설치 (다양한 OS에서의 설치)](https://www.tensorflow.org/install)
 * Python in action (Analytical solutions, ParaView, Raspberry Pi, etc) - 여력이 될 경우
   
