@@ -19,22 +19,22 @@
   - Holt's Winters Seasonal
 * [Customized python coding (Basemap)](https://blog.goodaudience.com/geo-libraries-in-python-plotting-current-fires-bffef9fe3fb7)
    - Basemap installation tips for those who have python 3.8.
-   - https://pinkwink.kr/1199
+   - https://pinkwink.kr/1199 (KSJ)
    - With python 3.6, you need to install matplotlib 3.2 version for the installation of basemap. (KSK)
-     ```
-        pip install -U matplotlib==3.2 
-        ```
+      ```
+      pip install -U matplotlib==3.2 
+      ```
    - To test if basemap is properly installed, use the piece of the code in [the page](https://stackoverflow.com/questions/40374441/python-basemap-module-impossible-to-import).
-        ```
-        from mpl_toolkits.basemap import Basemap
-        import matplotlib.pyplot as plt
-        # setup Lambert Conformal basemap.
-        # set resolution=None to skip processing of boundary datasets.
-        m = Basemap(width=12000000,height=9000000,projection='lcc',
-            resolution=None,lat_1=45.,lat_2=55,lat_0=50,lon_0=-107.)
-        m.bluemarble()
-        plt.show()
-        ```
+      ```
+      from mpl_toolkits.basemap import Basemap
+      import matplotlib.pyplot as plt
+      # setup Lambert Conformal basemap.
+      # set resolution=None to skip processing of boundary datasets.
+      m = Basemap(width=12000000,height=9000000,projection='lcc',
+          resolution=None,lat_1=45.,lat_2=55,lat_0=50,lon_0=-107.)
+      m.bluemarble()
+      plt.show()
+      ```
 
 ## 11.27(금) 오픈소스와 연계하여 python을 이용한 DIYs
 * [Linear Regression 외](https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155) 
