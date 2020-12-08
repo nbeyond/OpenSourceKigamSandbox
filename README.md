@@ -3,6 +3,9 @@
 ## 12.8(화) Anaconda 패키지의 설치와 python의 기본 습득
 * Anaconda 패키지의 설치와 이용
 * Jupyter notebook 활용과 기본적 구동원리 이해
+  ``` 
+  conda update --all
+  ```
 * 오픈소스 문화에 기반한 코딩법 습득
 * python 기본 문법 및 활용
   
