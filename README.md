@@ -3,12 +3,16 @@
 ## 12.8(화) Anaconda 패키지의 설치와 python의 기본 습득
 * Anaconda 패키지의 설치와 이용
 * Jupyter notebook 활용과 기본적 구동원리 이해
+  ``` 
+  conda update --all
+  ```
 * 오픈소스 문화에 기반한 코딩법 습득
 * python 기본 문법 및 활용
   
 ## 12.9(수) 개발환경설정과 Pandas의 다양한 활용
 * Shell에서의 개발환경 설정
 * git의 간단 설명과 github을 통한 자료 습득
+  https://stackoverflow.com/questions/37805621/change-email-address-in-git
 * Pandas의 다양한 활용
 
 ## 12.10(목) Time series data 예제와 응용
