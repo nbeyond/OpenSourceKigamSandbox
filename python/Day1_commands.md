@@ -1,8 +1,8 @@
 # VS code
-$ git clone https://github.com/nbeyond/OpenSourceKigamSandbox.git
-$ git checkout -b python.2020b
-$ git push origin python.2020b
-$ git pull origin python.2020b
+$ git clone https://github.com/nbeyond/OpenSourceKigamSandbox.git  
+$ git checkout -b python.2020b  
+$ git push origin python.2020b  
+$ git pull origin python.2020b  
 $ cp python/bashrc ~/.bashrc
  - bash 파일을 워킹디렉토리로 카피(히든파일로)
 
@@ -11,9 +11,9 @@ C:\Users\Yohan>cd c:\git\OpenSourceKigamSandbox
  - jupyter notebook을 이 폴더에서 열기
 
 # VS code after permission by PCH
-$ git push --set-upstream origin python.2020b
-$ git config --global user.email "you@example.com"
-$ git config --global user.name "Your Name"
+$ git push --set-upstream origin python.2020b  
+$ git config --global user.email "you@example.com"  
+$ git config --global user.name "Your Name"  
 
-$ gpull
+$ gpull  
 $ gpush
