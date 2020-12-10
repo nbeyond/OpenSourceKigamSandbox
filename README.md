@@ -15,9 +15,30 @@
   https://stackoverflow.com/questions/37805621/change-email-address-in-git
 * Pandas의 다양한 활용
 
-## 12.10(목) Time series data 예제와 응용
-* Time series 데이터 처리, 분석 및 데이터 시각화
-* Customized python coding
+## 11.26(목) Time series data 예제와 응용
+* [Time series 데이터 처리, 분석 및 데이터 시각화](https://medium.com/datadriveninvestor/how-to-build-exponential-smoothing-models-using-python-simple-exponential-smoothing-holt-and-da371189e1a1)
+  - Simple Exponential Smoothing
+  - Holt's Method
+  - Seasonally Adjusted Data
+  - Holt's Winters Seasonal
+* [Customized python coding (Basemap)](https://blog.goodaudience.com/geo-libraries-in-python-plotting-current-fires-bffef9fe3fb7)
+   - Basemap installation tips for those who have python 3.8.
+   - https://pinkwink.kr/1199 (KSJ)
+   - With python 3.6, you need to install matplotlib 3.2 version for the installation of basemap. (KSK)
+      ```
+      pip install -U matplotlib==3.2 
+      ```
+   - To test if basemap is properly installed, use the piece of the code in [the page](https://stackoverflow.com/questions/40374441/python-basemap-module-impossible-to-import).
+      ```
+      from mpl_toolkits.basemap import Basemap
+      import matplotlib.pyplot as plt
+      # setup Lambert Conformal basemap.
+      # set resolution=None to skip processing of boundary datasets.
+      m = Basemap(width=12000000,height=9000000,projection='lcc',
+          resolution=None,lat_1=45.,lat_2=55,lat_0=50,lon_0=-107.)
+      m.bluemarble()
+      plt.show()
+      ```
 
 ## 12.11(금) 오픈소스와 연계하여 python을 이용한 DIYs
 * Linear Regression 외 
