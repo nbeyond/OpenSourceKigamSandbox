@@ -39,6 +39,7 @@
       m.bluemarble()
       plt.show()
       ```
+   - geolocator = Nominatim() -> geolocator = user_agent="my-application" (YohanCha)      
 
 ## 12.11(금) 오픈소스와 연계하여 python을 이용한 DIYs
 * Linear Regression 외 
