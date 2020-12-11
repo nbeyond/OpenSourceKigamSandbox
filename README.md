@@ -15,7 +15,7 @@
   https://stackoverflow.com/questions/37805621/change-email-address-in-git
 * Pandas의 다양한 활용
 
-## 11.26(목) Time series data 예제와 응용
+## 12.10(목) Time series data 예제와 응용
 * [Time series 데이터 처리, 분석 및 데이터 시각화](https://medium.com/datadriveninvestor/how-to-build-exponential-smoothing-models-using-python-simple-exponential-smoothing-holt-and-da371189e1a1)
   - Simple Exponential Smoothing
   - Holt's Method
@@ -45,8 +45,10 @@
    - geolocator = Nominatim() -> geolocator = user_agent="my-application" (YohanCha)      
 
 ## 12.11(금) 오픈소스와 연계하여 python을 이용한 DIYs
-* Linear Regression 외 
-* 세가지 형태의 Machine Learning
-* 특화된 모듈 설치 (다양한 OS에서의 설치)
+* [Linear Regression 외](https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155) 
+* [세가지 형태의 Machine Learning](https://towardsdatascience.com/beginners-guide-to-the-three-types-of-machine-learning-3141730ef45d)
+* [특화된 모듈 설치 (다양한 OS에서의 설치)](https://www.tensorflow.org/install)
+* [A simple 2D CNN for MNIST digit recognition](https://towardsdatascience.com/a-simple-2d-cnn-for-mnist-digit-recognition-a998dbc1e79a)
 * Python in action (Analytical solutions, ParaView, Raspberry Pi, etc) - 여력이 될 경우
+  
   
