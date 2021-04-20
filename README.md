@@ -10,7 +10,7 @@
   
 ## 4.20(화) 개발환경설정과 Pandas의 다양한 활용
 * Shell에서의 개발환경 설정
-* git의 간단 설명과 github을 통한 자료 습득
+* git의 간단 설명과 github을 통한 자료 습득 https://stackoverflow.com/questions/37805621/change-email-address-in-git
 * Pandas의 다양한 활용
 
 ## 4.21(수) Time series data 예제와 응용
