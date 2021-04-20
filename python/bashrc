@@ -19,4 +19,4 @@ get_git_branch() {
 alias gpull='git pull origin `get_git_branch`'
 alias gpush='git push origin `get_git_branch`'
 
-alias ana3='export PATH=/c/Users/burge/Anaconda3:$PATH'
+alias ana3='export PATH=/Users/burge/Anaconda3/bin:$PATH'
