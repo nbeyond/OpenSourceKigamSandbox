@@ -14,7 +14,7 @@
 * Pandas의 다양한 활용
 
 ## 4.21(수) Time series data 예제와 응용
-[Time series 데이터 처리, 분석 및 데이터 시각화](https://medium.com/datadriveninvestor/how-to-build-exponential-smoothing-models-using-python-simple-exponential-smoothing-holt-and-da371189e1a1)
+* [Time series 데이터 처리, 분석 및 데이터 시각화](https://medium.com/datadriveninvestor/how-to-build-exponential-smoothing-models-using-python-simple-exponential-smoothing-holt-and-da371189e1a1)
   - Simple Exponential Smoothing
   - Holt's Method
   - Seasonally Adjusted Data
