@@ -43,8 +43,9 @@
    - geolocator = Nominatim() -> geolocator = user_agent="my-application" (YohanCha)      
 
 ## 4.22(목) 오픈소스와 연계하여 python을 이용한 DIYs
-* Linear Regression 외 
-* 세가지 형태의 Machine Learning
-* 특화된 모듈 설치 (다양한 OS에서의 설치)
+* [Linear Regression 외](https://towardsdatascience.com/linear-regression-on-boston-housing-dataset-f409b7e4a155) 
+* [세가지 형태의 Machine Learning](https://towardsdatascience.com/beginners-guide-to-the-three-types-of-machine-learning-3141730ef45d)
+* [특화된 모듈 설치 (다양한 OS에서의 설치)](https://www.tensorflow.org/install)
+* [A simple 2D CNN for MNIST digit recognition](https://towardsdatascience.com/a-simple-2d-cnn-for-mnist-digit-recognition-a998dbc1e79a)
 * Python in action (Analytical solutions, ParaView, Raspberry Pi, etc) - 여력이 될 경우
   
